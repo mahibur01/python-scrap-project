@@ -1,4 +1,4 @@
-# Import Modules
+# Import Libraries
 from gettext import find
 import requests
 from bs4 import BeautifulSoup as bs
