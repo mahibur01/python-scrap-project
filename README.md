@@ -16,10 +16,6 @@ Step 10: Save into Database <br/>
 
 # Database Access: (Cloud MySQL Database)
 URL: www.phpmyadmin.co <br/>
-Host: sql6.freesqldatabase.com <br/>
-Database name: sql6520423 <br/>
-Database user: sql6520423 <br/>
-Database password: rujgDVI2I1 <br/>
 
 # Project Run 
 Command: python project.py
