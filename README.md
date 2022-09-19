@@ -14,7 +14,7 @@ Step 08: Scrap photo's URL <br/>
 Step 09: Scrap the photo's label <br/>
 Step 10: Save into Database <br/>
 
-# Database Access: (Cloud MySQL Database)
+# Database: (Cloud MySQL Database)
 URL: www.phpmyadmin.co <br/>
 
 # Project Run 
